@@ -23,7 +23,6 @@
 
 3. The code includes **assertions** (such as field values validation, verifying navigation to the "Thank You" page, etc..), in order to ensure action correctness and test reliability.
 
-
 4. Screenshots location: ..\Jonse\tests
 
 
