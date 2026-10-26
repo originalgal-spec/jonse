@@ -1,0 +1,18 @@
+PS C:\Users\Public\PlayWright\JS-Tasks\Jonse> npx playwright test Callback-Request-Submission --headed
+
+Running 3 tests using 3 workers
+
+  ok 1 [chromium] › tests\Callback-Request-Submission.spec.js:7:5 › Callback Request Submission (19.3s)
+  ok 2 [webkit] › tests\Callback-Request-Submission.spec.js:7:5 › Callback Request Submission (21.2s)
+  ok 3 [firefox] › tests\Callback-Request-Submission.spec.js:7:5 › Callback Request Submission (15.4s)
+"Thank You" page is displayed successfully on chromium at timestamp_1788025002092.
+"Thank You" page is displayed successfully on webkit at timestamp_1788025002163.
+"Thank You" page is displayed successfully on firefox at timestamp_1788025006341.
+
+  3 passed (21.4s)
+
+To open last HTML report run:
+
+  npx playwright show-report
+
+PS C:\Users\Public\PlayWright\JS-Tasks\Jonse>
